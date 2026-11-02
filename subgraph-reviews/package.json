@@ -14,7 +14,7 @@
     "node": ">=14.0.0 <=20"
   },
   "dependencies": {
-    "@apollo/server": "^4.9.3",
+    "@apollo/server": "^5.5.1",
     "@apollo/subgraph": "^2.15.1",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
